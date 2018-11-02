@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482218654 source:e:\c语言自学\3.循环\do...while 实现一元二次方程\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

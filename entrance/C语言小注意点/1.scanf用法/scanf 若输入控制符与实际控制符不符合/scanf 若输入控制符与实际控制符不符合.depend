@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479908369 source:e:\c语言自学\逻辑运算符和逻辑表达式\scanf 若输入控制符与实际控制符不符合\main.c
+	<stdio.h>
+	<stdlib.h>
+

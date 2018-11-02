@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480605285 source:e:\c语言自学\自增 自减\main.c
+	<stdio.h>
+	<stdlib.h>
+

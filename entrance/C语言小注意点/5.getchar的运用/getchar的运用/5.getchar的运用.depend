@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483421813 source:e:\c语言自学\c语言小注意点\5.getchar的运用\main.c
+	<stdio.h>
+	<stdlib.h>
+

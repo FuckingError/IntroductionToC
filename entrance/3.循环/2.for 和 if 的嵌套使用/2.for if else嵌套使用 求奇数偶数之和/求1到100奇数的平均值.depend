@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480928518 source:e:\求1到100奇数的平均值\main.c
+	<stdio.h>
+	<stdlib.h>
+
